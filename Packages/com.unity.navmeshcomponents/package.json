@@ -1,0 +1,17 @@
+{
+  "name": "com.unity.navmeshcomponents",
+  "version": "1.0.0",
+  "displayName": "Nav Mesh Components",
+  "unity": "2020.2",
+  "description": "This package defines the new Nav Mesh system.",
+  "dependencies": {
+    "com.unity.test-framework": "1.1.20"
+  },
+  "relatedPackages": {},
+  "upmCi": {},
+  "repository": {
+    "url": "https://github.com/JamesMillsTAFE/NavMeshComponents-Package.git?path=Packages/com.unity.navmeshcomponents/",
+    "type": "git",
+    "revision": ""
+  }
+}
